@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# TensorBoard
+logs/
+
+# Model files
+*.h5
+*.keras
+*.ckpt
+*.pb
+saved_models/
+
+# Dataset
+Dataset_Split/
+dataset/
+datasets/
+
+# Output images
+*.png
+*.jpg
+*.jpeg
+
+# CSV results
+*.csv
+
+# NumPy
+*.npy
+
+# Pickle
+*.pkl
+
+# Environment variables
+.env
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+*.zip
